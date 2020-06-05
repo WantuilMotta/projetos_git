@@ -1,6 +1,7 @@
-
 Teste
 
 entendo o Head
 
 esta linha foi modificada no ramo master
+Entendo o Head
+Esta linha foi modificad no ramo teste
